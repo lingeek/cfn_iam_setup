@@ -1,0 +1,21 @@
+[
+
+  {
+    "ParameterKey": "GroupName",
+    "ParameterValue": "DevGroup"
+  },
+  {
+    "ParameterKey": "ManagedPolicy",
+    "ParameterValue": "arn:aws:iam::aws:policy/job-function/ViewOnlyAccess"
+  },
+  {
+    "ParameterKey": "Path",
+    "ParameterValue": "/"
+  },
+  {
+    "ParameterKey": "TAGEnvironment",
+    "ParameterValue": "production"
+  }
+
+
+]

@@ -1,0 +1,13 @@
+global:
+  owner: alexandru.raul@gmail.com
+  qsname: iam-group-creation
+  regions:
+    - us-west-1
+    - us-west-2
+tests:
+  scenario-AdministratorAccess:
+    parameter_input: scenario-AdministratorAccess.json
+    template_file: group.tmplate
+  scenario-ViewOnlyAccess:
+    parameter_input: scenario-ViewOnlyAccess.json
+    template_file: group.tmplate
