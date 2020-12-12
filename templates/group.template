@@ -6,7 +6,6 @@
       "Type": "String",
       "Description": "What will the group's name be?"
     },
-   khkjhkh
     "ManagedPolicy": {
       "Type": "String",
       "Description": "Would you like to associate a predefined Managed Policy with the group?",
