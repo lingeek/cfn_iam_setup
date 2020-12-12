@@ -1,0 +1,9 @@
+Metadata:
+  cfn-lint:
+    config:
+      regions:
+        - us-west-2
+      ignore_checks:
+        - E2530
+      mandatory-checks:
+        - E1002
