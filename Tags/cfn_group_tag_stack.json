@@ -1,0 +1,18 @@
+[
+  {
+    "Key": "Managedby",
+    "Value": "Cloudifferent"
+  },
+  {
+    "Key": "Team",
+    "Value": "Cloudifferent"
+  },
+  {
+    "Key": "Provisionby",
+    "Value": "Jenkins"
+  },
+  {
+    "Key": "created_by",
+    "Value": "Alexandru Raul"
+  }
+]

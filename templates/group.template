@@ -21,7 +21,7 @@
       ],
       "Default": "None"
     },
-    "Path": {
+    "GroupPath": {
       "Type": "String",
       "Description": "What IAM Path would you like to associate with your group?",
       "AllowedPattern": "(^\\/$)|(^\\/.*\\/$)",
