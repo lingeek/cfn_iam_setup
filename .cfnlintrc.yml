@@ -7,3 +7,4 @@ include_checks:
 ignore_checks:
       - W2031
       - W7001
+      - W2001
