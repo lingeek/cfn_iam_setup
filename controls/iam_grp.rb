@@ -1,4 +1,4 @@
-describe aws_iam_group('<%= GroupName %>') do
+describe aws_iam_group('@GroupName') do
   it { should exist }
 end
 
